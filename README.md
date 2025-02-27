@@ -61,8 +61,6 @@ This project analyzes **Citi Bike ridership trends** in **New Jersey**, providin
 ✅ **Trip Distance (Highlight Table)** → Common ride distances.  
 ✅ **Top 10 Start Stations (Bar Chart)** → Identifies busiest stations.  
 
-🔗 **[View Dashboard 1 on Tableau Public](#)**  
-
 ---
 
 ### **📌 Dashboard 2: User Behavior & Station Analysis**  
@@ -71,7 +69,6 @@ This project analyzes **Citi Bike ridership trends** in **New Jersey**, providin
 ✅ **Station Popularity (Treemap)** → Most used stations.  
 ✅ **Start & End Station Maps** → Citi Bike usage distribution.  
 
-🔗 **[View Dashboard 2 on Tableau Public](#)**  
 
 ---
 
@@ -82,7 +79,7 @@ This **Tableau Story** presents key insights in an easy-to-follow format.
 - **Slide 2:** User Behavior & Station Analysis  
 - **Slide 3:** Summary & Key Takeaways  
 
-🔗 **[View the Full Tableau Story on Tableau Public](#)**  
+🔗 **[View the Full Tableau Story on Tableau Public](https://public.tableau.com/app/profile/mehmet.cingoz/viz/citibike_17386539225570/UnlockingCitiBikeUsageBehaviorHotspots)**  
 
 ---
 
