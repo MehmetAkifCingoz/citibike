@@ -1,5 +1,5 @@
 # citibike
-# 🚲 Citi Bike Ridership Analysis - NYC & NJ  
+# 🚲 Citi Bike Ridership Analysis - NJ  
 
 ![Citi Bike](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Citi_Bike_logo.svg/800px-Citi_Bike_logo.svg.png)  
 
